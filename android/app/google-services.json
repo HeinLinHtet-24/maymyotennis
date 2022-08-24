@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581028116743",
+    "project_id": "maymyo-tennis-30a6c",
+    "storage_bucket": "maymyo-tennis-30a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581028116743:android:407c522daf762962eaada2",
+        "android_client_info": {
+          "package_name": "com.example.maymyo_tennis_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581028116743-0uso33jcktunmvq26a51t3m7ucuarht8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs7tlgWegbutkRXd08fiBYCcXBZ-h1SLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581028116743-0uso33jcktunmvq26a51t3m7ucuarht8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
